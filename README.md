@@ -1,7 +1,6 @@
 # 💫 About Me:
 💻CS + Design Student | 2nd Year UG <br/>
-🔧 Learning AI Automation Engineering   <br/>  
-   -learning to build workflows with Python, n8n, APIs, and LLMs
+🔧 Learning AI Automation Engineering <br/> --learning to build workflows with Python, n8n, APIs, and LLMs
 
 
 ## 🌐 Socials:
